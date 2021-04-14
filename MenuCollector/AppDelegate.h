@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  TT
+//  MenuCollector
 //
 //  Created by Xia on 2021/4/14.
 //
